@@ -5,15 +5,31 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="10dp"
-    tools:context=".MainActivity">
+    tools:context=".views.MainActivity">
+
+
+    <TextView
+        android:id="@+id/tvCurrentAlarmState"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:textColor="@color/purple_500"
+        android:textSize="21sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
 
     <TextView
         android:id="@+id/tvSetAlarm"
         android:layout_width="0dp"
         android:layout_height="48dp"
-        android:background="@color/purple_200"
+        android:background="@color/black"
         android:gravity="center"
-        android:text="Set Alarm"
+        android:text="@string/set_alarm"
         android:textColor="@color/white"
         android:textSize="21sp"
         app:layout_constraintBottom_toTopOf="@+id/tvStopAlarm"
@@ -27,9 +43,9 @@
         android:id="@+id/tvStopAlarm"
         android:layout_width="0dp"
         android:layout_height="48dp"
-        android:background="@color/purple_200"
+        android:background="@color/black"
         android:gravity="center"
-        android:text="Stop Alarm"
+        android:text="@string/stop_alarm"
         android:textColor="@color/white"
         android:textSize="21sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -37,6 +53,19 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvSetAlarm"
         android:onClick="stopAlarm"/>
+
+
+    <TextView
+        android:id="@+id/tvProjectDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/project_description"
+        android:textColor="@color/black"
+        android:textSize="11sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

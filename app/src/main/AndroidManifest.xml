@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Android12Migrations">
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+
+        <activity android:name=".views.MainActivity" />
+
+        <activity android:name=".views.SplashScreenActivity"
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,11 +21,9 @@
             </intent-filter>
         </activity>
 
-
         <receiver
             android:name=".receiver.MyAlarmReceiver"
             android:enabled="true" />
-
     </application>
 
 </manifest>

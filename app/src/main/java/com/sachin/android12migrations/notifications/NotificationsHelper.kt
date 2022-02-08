@@ -7,12 +7,15 @@ import android.app.PendingIntent
 import android.content.Context
 import android.content.ContextWrapper
 import android.content.Intent
+import android.media.RingtoneManager
 import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.core.app.NotificationCompat
-import com.sachin.android12migrations.MainActivity
+import com.sachin.android12migrations.views.MainActivity
 import com.sachin.android12migrations.R
-
+/**
+ * Created by Sachin
+ */
 class NotificationHelper constructor(context: Context) : ContextWrapper(context) {
 
     val notificationManager: NotificationManager =
@@ -58,6 +61,7 @@ class NotificationHelper constructor(context: Context) : ContextWrapper(context)
                 setSmallIcon(R.mipmap.ic_launcher)
                 setContentIntent(pendingIntent)
                 setAutoCancel(false)
+                setSound(RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION))
             }
     }
 
