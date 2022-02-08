@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Android12Migrations</string>
+    <string name="app_name">Android12migrations</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="project_description">This project is used to showcase Android12\n migration journey \n\n (Native Mobile Bits)</string>
+    <string name="alarm_state">Alarm will ring at</string>
 </resources>
