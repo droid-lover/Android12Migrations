@@ -64,6 +64,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun getAlarmManagerPendingIntent(): PendingIntent? {
         val intent = Intent(this, MyAlarmReceiver::class.java)
-        return PendingIntent.getBroadcast(this, 0, intent, 0)
+        return PendingIntent.getBroadcast(this, 0, intent, PendingIntent.FLAG_IMMUTABLE)
     }
 }
