@@ -53,7 +53,7 @@ class NotificationHelper constructor(context: Context) : ContextWrapper(context)
             flags = Intent.FLAG_ACTIVITY_CLEAR_TASK
         }
 
-        val pendingIntent = PendingIntent.getActivity(this, 0, intent, 0)
+        val pendingIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_IMMUTABLE)
 
         return NotificationCompat.Builder(applicationContext, NOTIFICATION_CHANNEL_ID)
             .apply {
