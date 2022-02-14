@@ -10,6 +10,8 @@ Here are some of explanation from this journey:
 
 <a href="https://www.youtube.com/watch?v=X9IfLFLaVKI">Video Explanation Making our Apps Android12 ready </a> 
 
+<a href="https://youtu.be/gTXv3948SCU">Handling new permissions for Alarm Manager Bluetooth etc in Android12 </a> 
+
 
 
 
