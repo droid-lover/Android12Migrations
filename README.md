@@ -8,9 +8,9 @@ Here are some of explanation from this journey:
 
 <a href="https://medium.com/native-mobile-bits/lets-use-android-12-migration-of-our-android-apps-to-android12-api-31-af329b6829d0"> Android12 updates and respective Migration Notes </a> 
 
-<a href="https://www.youtube.com/watch?v=X9IfLFLaVKI">Video Explanation Making our Apps Android12 ready </a> 
+<a href="https://www.youtube.com/watch?v=X9IfLFLaVKI">step1) Video Explanation Making our Apps Android12 ready </a> 
 
-<a href="https://youtu.be/gTXv3948SCU">Handling new permissions for Alarm Manager Bluetooth etc in Android12 </a> 
+<a href="https://youtu.be/gTXv3948SCU">step2) Handling new permissions for Alarm Manager Bluetooth etc in Android12 </a> 
 
 
 
