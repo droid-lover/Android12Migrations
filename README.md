@@ -3,6 +3,10 @@ This is a sample project created to show the conversion of Android11 to Android1
 
 For First Part of <a href="https://www.youtube.com/watch?v=X9IfLFLaVKI">Android12 migration series. </a>, we have used this Project <a href="https://github.com/droid-lover/EasyAnalytics"> EasyAnalytics</a>
 
+### This project contains awesome latest things 😃🚀 :
+ - Runs on Android12 (API 31)
+ - Uses latest and first ever official Splash screen API.
+ - covers all the migration bugs solution (while migrating to android12)
 
 Here are some of explanation from this journey:
 
@@ -14,7 +18,7 @@ Here are some of explanation from this journey:
 
 and then you can check these new trendy thing here:
 
-<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">) First ever Splash screen API in android 😃🚀 (less code, bye bye old splash activities😳 "recommended")
+<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">) First ever Splash screen API in android (less code, bye bye old splash activities😳 "recommended")
 </a> 
 
 
