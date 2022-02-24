@@ -12,6 +12,11 @@ Here are some of explanation from this journey:
 
 <a href="https://youtu.be/gTXv3948SCU">step2) Handling new permissions for Alarm Manager Bluetooth etc in Android12 </a> 
 
+and then you can check these new trendy thing here:
+
+<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">) First ever Splash screen API in android 😃🚀 (less code, bye bye old splash activities😳 "recommended")
+</a> 
+
 
 
 
