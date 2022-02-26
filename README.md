@@ -18,7 +18,7 @@ Here are some of explanation from this journey:
 
 and then you can check these new trendy thing here:
 
-<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">) First ever Splash screen API in android (less code, bye bye old splash activities this is the new "recommended" way from Google)
+<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">🌟 First ever Splash screen API in android (less code, bye bye old splash activities this is the new "recommended" way from Google)
 </a> 
 
 
