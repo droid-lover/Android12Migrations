@@ -25,8 +25,8 @@ class MainActivity : AppCompatActivity() {
     private val splashViewModel : SplashViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
         installSplashScreen()
+        super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         val mainView = findViewById<View>(android.R.id.content)
