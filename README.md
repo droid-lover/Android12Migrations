@@ -18,7 +18,7 @@ Here are some of explanation from this journey:
 
 and then you can check these new trendy thing here:
 
-<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">) First ever Splash screen API in android (less code, bye bye old splash activities this is the new "recommended" way from Google)
+<a href="https://www.youtube.com/watch?v=nGFhtwJLfcM">🌟 First ever Splash screen API in android (less code, bye bye old splash activities this is the new "recommended" way from Google)
 </a> 
 
 
@@ -29,10 +29,13 @@ and then you can check these new trendy thing here:
 
 </br>
 
-
 ## About the author
-### <a href="https://iamsachinrajput.medium.com/"> Sachin Rajput</a>
-  Android Developer with 6+ years of experiecne in building useful apps which serves a purpose to help people. <br/>
+### <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA/videos"> Sachin Rajput</a>
+
+I am a developer from India and I work with Android on daily basis and I love creating native Mobile apps which can help users and give a plesant experience :)<br/>
+I love contributing to Open Source community and I share my learnings and respective implementation </br> my 
+Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> (Native Mobile Bits) </a> and on <a href="https://droid-lover.medium.com//">Medium publication</a> as well. 
+</br></br>
   In :heart: with <img src="https://github.com/myJarvis/EasyAnalytics/blob/master/images/android.png" alt="Android" width=20  height=30> </br> Open source contributor.
   
 Lets connect over here :) 
